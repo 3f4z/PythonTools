@@ -1,1 +1,2 @@
-"批量合成图片" 
+# 鎵归噺鍚堟垚鍥剧墖
+batch_paste_images.py
